@@ -18,8 +18,6 @@ function divideTriangle(ax, ay, bx, by, cx, cy, depth) {
 }
 
 function setup() {
-  angleMode(DEGREES);
-
   createCanvas(540, 540);
   background(255);
 
